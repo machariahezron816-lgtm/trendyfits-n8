@@ -8,8 +8,10 @@ export function Hero() {
         Online fashion store
       </p>
       <h1 className="mt-5 max-w-3xl text-balance font-serif text-5xl font-semibold leading-[1.05] tracking-tight md:text-7xl">
-        Trendyfits Fashion
-      </h1>
+  Trendyfits Fashion
+  </h1>
+  <p className="mt-4 text-sm font-medium uppercase tracking-[0.2em] text-primary">Now on GitHub</p>
+
       <p className="mt-6 max-w-xl text-pretty text-lg leading-relaxed text-muted-foreground">
         An online store dedicated to satisfying the fashion hunger in trendy styles.
       </p>
